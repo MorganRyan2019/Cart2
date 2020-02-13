@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "WHOData",
+"name": "WhoData2Data",
 "features": [
 { "type": "Feature", "properties": { "field_1": "Location", "field_2": "Lat", "field_3": "Long", "field_4": "1", "field_5": "2", "field_6": "3", "field_7": "4", "field_8": "5", "field_9": "6", "field_10": "7", "field_11": "8", "field_12": "9", "field_13": "10", "field_14": "11", "field_15": "12", "field_16": "13", "field_17": "14", "field_18": "15", "field_19": "16" }, "geometry": null },
 { "type": "Feature", "properties": { "field_1": "Australia", "field_2": "-25.2744", "field_3": "133.7751", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "3", "field_9": "4", "field_10": "4", "field_11": "5", "field_12": "7", "field_13": "9", "field_14": "9", "field_15": "12", "field_16": "12", "field_17": "12", "field_18": "12", "field_19": "13" }, "geometry": null },
