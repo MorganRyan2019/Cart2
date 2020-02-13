@@ -31,3 +31,6 @@
 { "type": "Feature", "properties": { "field_1": "Total:", "field_2": "", "field_3": "", "field_4": "282", "field_5": "314", "field_6": "581", "field_7": "846", "field_8": "1320", "field_9": "2014", "field_10": "2798", "field_11": "4578", "field_12": "6065", "field_13": "9826", "field_14": "9826", "field_15": "11953", "field_16": "14557", "field_17": "17391", "field_18": "20630", "field_19": "24553" }, "geometry": null }
 ]
 }
+docker login docker.pkg.github.com --username MorganRyan2019
+docker tag IMAGE_ID docker.pkg.github.com/morganryan2019/cart2/WhoData.geojson
+docker push docker.pkg.github.com/morganryan2019/cart2/WhoData.geojson
